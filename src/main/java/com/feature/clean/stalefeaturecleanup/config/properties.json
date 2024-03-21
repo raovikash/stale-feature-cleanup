@@ -1,0 +1,10 @@
+{
+  "methodProperties":
+  [
+    {
+      "methodName": "getTreatment",
+      "flagType": "treated",
+      "argumentIndex": 0
+    }
+  ]
+}
