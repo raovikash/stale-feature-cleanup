@@ -2,7 +2,7 @@
   "methodProperties":
   [
     {
-      "methodName": "getTreatment",
+      "methodName": "isTreated",
       "flagType": "treated",
       "argumentIndex": 0
     }
